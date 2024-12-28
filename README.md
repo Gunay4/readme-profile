@@ -17,12 +17,6 @@
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
     <img src="https://w7.pngwing.com/pngs/177/242/png-transparent-plain-old-java-object-programming-language-computer-programming-object-oriented-programming-others-text-logo-computer-programming-thumbnail.png" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
-  </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="40" height="40"/>
   </a>
@@ -56,14 +50,8 @@
   <a href="http://appium.io/docs/en/2.0/" target="_blank" rel="noreferrer">
     <img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/>
   </a>
-  <a href="https://robotframework.org/" target="_blank" rel="noreferrer">
-    <img src="https://i.ibb.co/C114Brg/imageedit-9-3670423130.png" alt="Robot Framework" width="40" height="40"/>
-  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
-  <a href="https://locust.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/>
-  </a
 ::contentReference[oaicite:0]{index=0}
  
