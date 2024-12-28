@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Günay Delik</h1>
 <h3 align="center">A passionate Software Development Engineer in Test (SDET)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chatgthb&label=Profile%20views&color=0e75b6&style=flat" alt="chatgthb" /> </p>
 
 - 🔭 I’m currently working on **Cucumber_JDBC_UI_DB_Testing_Framework** [Cucumber_JDBC_UI_DB_Testing_Framework](https://github.com/ChatGTHB/Cucumber_JDBC_UI_DB_Testing_Framework)
 
@@ -19,9 +18,6 @@
   </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_10f53e90961b98df0191922f13efd135/cypress.png" alt="Cypress" width="40" height="40"/>
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
     <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/>
@@ -53,5 +49,6 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
+  
 ::contentReference[oaicite:0]{index=0}
  
