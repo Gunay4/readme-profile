@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Development Engineer in Test (SDET)</h3>
 
 
-- 🔭 I’m currently working on **Cucumber_JDBC_UI_DB_Testing_Framework** [Cucumber_JDBC_UI_DB_Testing_Framework](https://github.com/ChatGTHB/Cucumber_JDBC_UI_DB_Testing_Framework)
+- 🔭 I’m currently working on (https://github.com/Gunay4/MersysCampus.git)
 
 - 🌱 I’m currently learning **Appium**
 
