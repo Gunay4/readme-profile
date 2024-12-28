@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Appium**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChatGTHB]()
+- 👨‍💻 All of my projects are available at [https://github.com/Gunay4](https://github.com/Gunay4)
 
-- 📫 How to reach me **cihatkose@example.com**
+- 📫 How to reach me **gunaydlk.tech@gmail.com**
 
 <h2><p align="center">Technologies and Tools</p></h2>
 
