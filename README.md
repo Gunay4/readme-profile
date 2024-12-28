@@ -10,6 +10,15 @@
 
 - 📫 How to reach me **gunaydlk.tech@gmail.com**
 
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h2 align="center">🎤About Me</h2>
+
+Strong foundation in manual and automated testing for web and mobile applications. Proficient in core testing tools including Java, 
+Selenium, TestNG, Cucumber BDD, Appium, Maven, and JUnit. Skilled in API testing tools such as Postman and Rest Assured and experienced in version control with Git/GitHub.
+Well-versed in database testing using MySQL and JDBC. Equipped with excellent analytical and communication skills. I have the technical skills and quality assurance to deliver robust, 
+reliable software solutions. My goal is to contribute to test automation and software quality assurance by using these skills and Agile/Scrum methods to achieve successful results in projects.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h2><p align="center">Technologies and Tools</p></h2>
 
 <p align="center">
